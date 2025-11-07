@@ -44,9 +44,11 @@
             // 
             // txtResultadoFib
             // 
-            this.txtResultadoFib.Location = new System.Drawing.Point(390, 105);
+            this.txtResultadoFib.Location = new System.Drawing.Point(369, 105);
+            this.txtResultadoFib.Multiline = true;
             this.txtResultadoFib.Name = "txtResultadoFib";
-            this.txtResultadoFib.Size = new System.Drawing.Size(100, 20);
+            this.txtResultadoFib.ReadOnly = true;
+            this.txtResultadoFib.Size = new System.Drawing.Size(156, 20);
             this.txtResultadoFib.TabIndex = 1;
             // 
             // label1
