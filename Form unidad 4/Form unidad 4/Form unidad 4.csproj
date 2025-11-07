@@ -78,6 +78,9 @@
     <EmbeddedResource Include="FormConversorDivisas.resx">
       <DependentUpon>FormConversorDivisas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormFibonacci.resx">
+      <DependentUpon>FormFibonacci.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormRegistroPersona.resx">
       <DependentUpon>FormRegistroPersona.cs</DependentUpon>
     </EmbeddedResource>
